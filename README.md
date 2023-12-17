@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/hr0221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hr0221" height="30" width="40" /></a>
 <a href="https://kaggle.com/hrs0221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hrs0221" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hr0221" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hr0221" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@salunkehimanshu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@salunkehimanshu1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/salunkehimanshu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@salunkehimanshu1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/salunkehimanshu2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="salunkehimanshu2001" height="30" width="40" /></a>
 </p>
 
