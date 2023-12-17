@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HRS0221?tab=repositories](https://github.com/HRS0221?tab=repositories)
 
-- 📝 I Monthly write articles on The Minimalist Life [https://www.linkedin.com/newsletters/the-minimalist-life-7085106786910769152/](https://www.linkedin.com/newsletters/the-minimalist-life-7085106786910769152/)
+- 📝 I Monthly write articles on The Minimalist Life <a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7085106786910769152" target="_blank">Subscribe on LinkedIn</a>
 
 - 💬 Ask me about **Data Science, Machine Learning**
 
