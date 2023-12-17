@@ -36,18 +36,12 @@
 <p><a href="https://www.buymeacoffee.com/hr0221"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hr0221" /></a></p>
 <br>
 <br>
+<br>
+<br>
+<center>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrs0221&show_icons=true&locale=en&layout=compact" alt="hrs0221" /></p><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrs0221&show_icons=true&locale=en&layout=compact" alt="hrs0221" /></p>
-<br>
-<br>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=hrs0221&show_icons=true&locale=en" alt="hrs0221" /></p><br>
 
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hrs0221&show_icons=true&locale=en">
-</div>
-<br>
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrs0221&" alt="hrs0221" /></p>
-<br>
-<br>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hrs0221&" alt="hrs0221" /></p>
+</center>
