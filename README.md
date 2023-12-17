@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/hr0221salunke" target="blank"><img src="https://img.shields.io/twitter/follow/hr0221salunke?logo=twitter&style=for-the-badge" alt="hr0221salunke" /></a> </p>
 
-- 🌱 I’m currently pursuing a Bachelor in Data Science, in my final year.**
+- 🌱 **I’m currently pursuing a Bachelor in Data Science, in my final year.**
 
-- 👨‍💻 All of my projects are available Here <a class="libutton" href="https://github.com/HRS0221?tab=repositories" target="_blank">Click to Have a look</a>
+- 👨‍💻 **All of my projects are available Here** <a class="libutton" href="https://github.com/HRS0221?tab=repositories" target="_blank">Click to Have a look</a>
 
-- 📝 I Monthly write articles on The Minimalist Life <a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7085106786910769152" target="_blank">Subscribe on LinkedIn</a>
+- 📝 **I Monthly write articles on The Minimalist Life** <a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7085106786910769152" target="_blank">Subscribe on LinkedIn</a>
 
 - 💬 Ask me about **Data Science, Machine Learning**
 
