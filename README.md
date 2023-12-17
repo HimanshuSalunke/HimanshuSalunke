@@ -35,10 +35,6 @@
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hr0221"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hr0221" /></a></p> -->
 
-<br>
-<br>
-<br>
-<br>
 <center>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrs0221&show_icons=true&locale=en&layout=compact" alt="hrs0221" /></p><br>
 
