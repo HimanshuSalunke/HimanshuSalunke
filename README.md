@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently pursuing a Bachelor in Data Science, in my final year.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HRS0221?tab=repositories](https://github.com/HRS0221?tab=repositories)
+- 👨‍💻 All of my projects are available Here <a class="libutton" href="https://github.com/HRS0221?tab=repositories" target="_blank">Click to Have a look</a>
 
 - 📝 I Monthly write articles on The Minimalist Life <a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7085106786910769152" target="_blank">Subscribe on LinkedIn</a>
 
@@ -35,7 +35,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hr0221"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hr0221" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrs0221&show_icons=true&locale=en&layout=compact" alt="hrs0221" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrs0221&show_icons=true&locale=en&layout=compact" alt="hrs0221" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrs0221&show_icons=true&locale=en" alt="hrs0221" /></p>
 
