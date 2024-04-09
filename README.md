@@ -15,9 +15,7 @@
 
 - 📫 How to reach me **contact.himanshusalunke@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oGstrRVl-1m28dx2hbSTySEfWizyhXtj/view?usp=sharing](https://drive.google.com/file/d/1oGstrRVl-1m28dx2hbSTySEfWizyhXtj/view?usp=sharing)
-
-- ⚡ Fun fact **I attract people by my words...**
+- ⚡ Fun fact **I attract people by my words. :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
