@@ -23,24 +23,35 @@
 
 ---
 
+## 💪 My Journey: From Recovery to Resilience
+
+In 2015, I faced a major leg fracture that required two surgeries and several years of recovery. I couldn’t attend school properly for nearly two years, which impacted my early academics.  
+Later in my diploma years, a second surgery was needed to remove the surgical implants — delaying my graduation by another year.  
+
+But instead of giving up, I came back stronger. I resumed my studies, completed my diploma and B.Tech in Data Science, and built a portfolio of real-world AI/ML projects.
+
+This journey not only shaped my technical skills but built the **resilience, patience, and discipline** I carry into every challenge I face today.
+
+---
+
 ## 🚀 Featured Projects
 | Project | Description |
 |--------|------------|
-| [YouTube Data Analysis (AWS)](https://github.com/HRS0221/Data-Engineering-Youtube-Data-Analysis) | Analyzed video metrics using AWS Glue, Lambda, Athena, and QuickSight |
-| [Sentiment Analysis with BERT](https://github.com/HRS0221/Sentiment-Analysis-with-Deep-Learning-Using-Bert) | Transformer-based sentiment classifier trained on Twitter data |
-| [Vehicle Plate Detection (YOLOv7)](https://github.com/HRS0221/Smart-India-Hackathon-2022) | Real-time number plate detection system using YOLOv7 |
-| [Uplifting Happiness Index – SunHacks](https://github.com/HRS0221/SUNHACK-International-Level-Hackathon) | NLP + facial expression analysis for emotional well-being assessment |
+| [YouTube Data Analysis (AWS)](https://github.com/HRS0221/Data-Engineering-Youtube-Data-Analysis) | ETL pipeline and dashboards using Glue, Lambda, Athena |
+| [Sentiment Analysis with BERT](https://github.com/HRS0221/Sentiment-Analysis-with-Deep-Learning-Using-Bert) | NLP model using Transformers trained on Twitter data |
+| [Vehicle Plate Detection (YOLOv7)](https://github.com/HRS0221/Smart-India-Hackathon-2022) | Real-time object detection for license plates |
+| [Uplifting Happiness Index – SunHacks](https://github.com/HRS0221/SUNHACK-International-Level-Hackathon) | Emotion and sentiment analysis system |
 
 ---
 
 ## 📜 Certifications
-- **DataCamp**:
+- **DataCamp**:  
   - Associate Data Analyst  
   - Associate Data Engineer  
   - Data Scientist Professional  
-- **Google**:
-  - Google Data Analytics  
-  - Google Business Intelligence  
+- **Google**:  
+  - Data Analytics  
+  - Business Intelligence
 
 ---
 
@@ -84,4 +95,5 @@
 
 ---
 
-Thanks for visiting my profile! Feel free to explore and connect. 😊
+Thanks for reading my story and visiting my profile 🙏  
+Let’s connect and build something meaningful together!
