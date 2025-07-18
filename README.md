@@ -47,30 +47,14 @@
 
 ---
 
-## �� Featured Projects
+## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/HRS0221/Data-Engineering-Youtube-Data-Analysis">YouTube Data Analysis (AWS)</a></td>
-    <td>ETL pipeline and dashboards using Glue, Lambda, Athena</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/HRS0221/Sentiment-Analysis-with-Deep-Learning-Using-Bert">Sentiment Analysis with BERT</a></td>
-    <td>NLP model using Transformers trained on Twitter data</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/HRS0221/Smart-India-Hackathon-2022">Vehicle Plate Detection (YOLOv7)</a></td>
-    <td>Real-time object detection for license plates</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/HRS0221/SUNHACK-International-Level-Hackathon">Uplifting Happiness Index – SunHacks</a></td>
-    <td>Emotion and sentiment analysis system</td>
-  </tr>
-</table>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [![YouTube Data Analysis (AWS)](https://img.shields.io/badge/-YouTube%20Data%20Analysis%20(AWS)-blue?style=for-the-badge&logo=amazon-aws)](https://github.com/HRS0221/Data-Engineering-Youtube-Data-Analysis) | ETL pipeline and dashboards using Glue, Lambda, Athena | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| [![Sentiment Analysis with BERT](https://img.shields.io/badge/-Sentiment%20Analysis%20with%20BERT-yellow?style=for-the-badge&logo=pytorch)](https://github.com/HRS0221/Sentiment-Analysis-with-Deep-Learning-Using-Bert) | NLP model using Transformers trained on Twitter data | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| [![Vehicle Plate Detection (YOLOv7)](https://img.shields.io/badge/-Vehicle%20Plate%20Detection%20(YOLOv7)-green?style=for-the-badge&logo=opencv)](https://github.com/HRS0221/Smart-India-Hackathon-2022) | Real-time object detection for license plates | ![YOLO](https://img.shields.io/badge/YOLOv7-000000?style=flat-square&logoColor=white) |
+| [![Uplifting Happiness Index – SunHacks](https://img.shields.io/badge/-Uplifting%20Happiness%20Index%20–%20SunHacks-orange?style=for-the-badge&logo=smile)](https://github.com/HRS0221/SUNHACK-International-Level-Hackathon) | Emotion and sentiment analysis system | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ---
 
