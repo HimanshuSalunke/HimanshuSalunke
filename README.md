@@ -16,34 +16,31 @@
 
 ---
 
-## 📑 Table of Contents
-- [About Me](#about-me)
-- [Current Focus](#current-focus)
-- [Featured Projects](#featured-projects)
-- [Articles](#articles)
-- [Certifications](#certifications)
-- [Achievements](#achievements)
-- [Tech Stack](#tech-stack)
-- [GitHub Stats](#github-stats)
-- [Fun Fact](#fun-fact)
-- [Contact](#contact)
+## 💼 About Me
+
+🎓 <b>Education:</b>  
+<img src="https://img.shields.io/badge/B.Tech-Data%20Science-blue?style=flat-square"> R.C. Patel Institute of Technology, <i>June 2024</i>  
+<img src="https://img.shields.io/badge/Diploma-Computer%20Science-blue?style=flat-square"> R.C. Patel Polytechnic, <i>May 2021</i>  
+
+📚 <b>Passionate about:</b> Building real-world AI/ML projects  
+🔍 <b>Seeking:</b> Data Science & Artificial Intelligence roles  
+✉️ <b>Email:</b> <a href="mailto:contact.himanshusalunke@gmail.com">contact.himanshusalunke@gmail.com</a>
 
 ---
 
-## 💼 About Me
-- 🎓 **Education:**
-  - B.Tech in Data Science – *R.C. Patel Institute of Technology, June 2024*
-  - Diploma in Computer Science – *R.C. Patel Polytechnic, May 2021*
-- 📚 Passionate about building real-world AI/ML projects  
-- 🔍 Seeking roles in **Data Science** and **Artificial Intelligence**  
-- 📫 Reach me at: [contact.himanshusalunke@gmail.com](mailto:contact.himanshusalunke@gmail.com)
+## 🌄 My Journey: From Recovery to Resilience
+
+My path to a B.Tech in Data Science has been unconventional. Early in my studies, I sustained a major leg fracture that required several years of recovery and multiple surgeries, which extended my academic timeline.
+
+This period was a profound test of discipline and resilience. I successfully returned to my studies with a renewed determination, completing both my diploma and my degree. This experience has given me a unique perspective on overcoming obstacles and a proven commitment to seeing complex challenges through to completion.
 
 ---
 
 ## 🧭 Current Focus
-- Preparing for GATE 2026
-- Writing technical articles on AI/ML
-- Building and sharing open-source data science resources
+
+- 🎯 <b>Preparing for:</b> <img src="https://img.shields.io/badge/GATE-2026-blueviolet?style=flat-square">  
+- 📝 <b>Writing:</b> Technical articles on AI/ML  
+- 🌱 <b>Building:</b> Open-source data science resources
 
 ---
 
@@ -59,33 +56,40 @@
 ---
 
 ## 📝 Articles
-Here are some of my latest articles:
 
-- [What is Machine Learning?](https://www.linkedin.com/pulse/what-machine-learning-himanshu-salunke-dwgef/)
-- [Hypothesis and Inductive Bias](https://www.linkedin.com/pulse/what-hypothesis-inductive-bias-machine-learning-himanshu-salunke-yvqzf/)
-- [Linear Regression](https://www.linkedin.com/pulse/what-regression-machine-learning-himanshu-salunke-m0zff/)
-- [Least Mean Square (LMS)](https://www.linkedin.com/pulse/what-least-mean-square-lms-machine-learning-himanshu-salunke-mtp3f/)
-- [Gradient Descent](https://www.linkedin.com/pulse/what-gradient-descent-machine-learning-himanshu-salunke-ray0f/)
-- [Lasso and Ridge Regression](https://www.linkedin.com/pulse/what-lasso-ridge-regression-machine-learning-himanshu-salunke-eg3ff/)
-- [Polynomial Regression](https://www.linkedin.com/pulse/what-polynomial-regression-machine-learning-himanshu-salunke-xfqgc/)
-- [Logistic Regression](https://www.linkedin.com/pulse/what-logistic-regression-machine-learning-himanshu-salunke-266zf/)
-- [Maximum Likelihood Estimation](https://www.linkedin.com/pulse/maximum-likelihood-estimation-machine-learning-himanshu-salunke-igcbc/)
-- [Decision Tree](https://www.linkedin.com/pulse/decision-tree-machine-learning-himanshu-salunke-y02mf/)
+📰 <b>Latest Articles:</b>
+
+- [What is Machine Learning?](https://www.linkedin.com/pulse/what-machine-learning-himanshu-salunke-dwgef/)  
+- [Hypothesis and Inductive Bias](https://www.linkedin.com/pulse/what-hypothesis-inductive-bias-machine-learning-himanshu-salunke-yvqzf/)  
+- [Linear Regression](https://www.linkedin.com/pulse/what-regression-machine-learning-himanshu-salunke-m0zff/)  
+- [Least Mean Square (LMS)](https://www.linkedin.com/pulse/what-least-mean-square-lms-machine-learning-himanshu-salunke-mtp3f/)  
+- [Gradient Descent](https://www.linkedin.com/pulse/what-gradient-descent-machine-learning-himanshu-salunke-ray0f/)  
+- [Lasso and Ridge Regression](https://www.linkedin.com/pulse/what-lasso-ridge-regression-machine-learning-himanshu-salunke-eg3ff/)  
+- [Polynomial Regression](https://www.linkedin.com/pulse/what-polynomial-regression-machine-learning-himanshu-salunke-xfqgc/)  
+- [Logistic Regression](https://www.linkedin.com/pulse/what-logistic-regression-machine-learning-himanshu-salunke-266zf/)  
+- [Maximum Likelihood Estimation](https://www.linkedin.com/pulse/maximum-likelihood-estimation-machine-learning-himanshu-salunke-igcbc/)  
+- [Decision Tree](https://www.linkedin.com/pulse/decision-tree-machine-learning-himanshu-salunke-y02mf/)  
 
 > _See more on my [LinkedIn Articles](https://www.linkedin.com/in/hr0221/details/recent-activity/posts/)_
 
 ---
 
 ## 📜 Certifications
-- [DataCamp Certified: Associate Data Analyst](https://drive.google.com/file/d/1sRj_7Guc-tVBmw_bNZnBh6EcVmZUj1es/view)
-- [DataCamp Certified: Associate Data Engineer](https://drive.google.com/file/d/1JseSVzsLL9maBkDioIufZIjpuhb07bSX/view)
-- [Google Business Intelligence Certification](https://drive.google.com/file/d/1CSfaO1kV1XpbChKfmWojA44Ge3xgVRvM/view)
-- [Google Data Analytics Certification](https://drive.google.com/file/d/1lrOPW3huOrYh1s5oakKSYOCJZHOKMq93/view)
-- [Data Scientist Professional Certificate](https://drive.google.com/file/d/1CQIOT7vUbOoVcX7dwVmBBZNH9FOPiKrm/view)
+
+🏅 <b>Certifications:</b>
+
+- <img src="https://img.shields.io/badge/DataCamp-Associate%20Data%20Analyst-3DDC91?style=flat-square&logo=datacamp"> [DataCamp Certified: Associate Data Analyst](https://drive.google.com/file/d/1sRj_7Guc-tVBmw_bNZnBh6EcVmZUj1es/view)
+- <img src="https://img.shields.io/badge/DataCamp-Associate%20Data%20Engineer-3DDC91?style=flat-square&logo=datacamp"> [DataCamp Certified: Associate Data Engineer](https://drive.google.com/file/d/1JseSVzsLL9maBkDioIufZIjpuhb07bSX/view)
+- <img src="https://img.shields.io/badge/Google-Business%20Intelligence-4285F4?style=flat-square&logo=google"> [Google Business Intelligence Certification](https://drive.google.com/file/d/1CSfaO1kV1XpbChKfmWojA44Ge3xgVRvM/view)
+- <img src="https://img.shields.io/badge/Google-Data%20Analytics-4285F4?style=flat-square&logo=google"> [Google Data Analytics Certification](https://drive.google.com/file/d/1lrOPW3huOrYh1s5oakKSYOCJZHOKMq93/view)
+- <img src="https://img.shields.io/badge/DataCamp-Data%20Scientist%20Professional-3DDC91?style=flat-square&logo=datacamp"> [Data Scientist Professional Certificate](https://drive.google.com/file/d/1CQIOT7vUbOoVcX7dwVmBBZNH9FOPiKrm/view)
 
 ---
 
 ## 🏆 Achievements
+
+🥇 <b>Achievements:</b>
+
 - 👨‍💻 Grand Finalist – Smart India Hackathon 2022  
 - 🌐 Grand Finalist – SUNHACKS International Hackathon 2022  
 - 🧠 Led internal Smart India Hackathon with 85+ teams  
@@ -93,14 +97,19 @@ Here are some of my latest articles:
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Python, SQL, Java, C, C++, HTML, CSS  
-**Frameworks & Libraries:** Flask, Tensorflow, PyTorch, Keras, YOLO, scikit-learn  
-**Technologies:** AWS Glue, Lambda, Athena, S3, IBM Watson Studio, Docker, QuickSight, Amazon Athena, Tableau, PowerBI  
-**Developer Tools:** Git, Docker, VS Code
+
+💻 <b>Languages:</b> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">  
+
+🧩 <b>Frameworks & Libraries:</b> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"> <img src="https://img.shields.io/badge/YOLOv7-000000?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">  
+
+☁️ <b>Technologies:</b> <img src="https://img.shields.io/badge/AWS%20Glue-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white"> <img src="https://img.shields.io/badge/Athena-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white"> <img src="https://img.shields.io/badge/IBM%20Watson%20Studio-052FAD?style=flat-square&logo=ibm&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/QuickSight-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-0081CB?style=flat-square&logo=tableau&logoColor=white"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black">  
+
+🛠️ <b>Developer Tools:</b> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">  
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hrs0221&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br><br>
@@ -112,13 +121,15 @@ Here are some of my latest articles:
 ---
 
 ## 💬 Fun Fact
+
 > “I attract people by my words 🙂”
 
 ---
 
 ## 📞 Contact
-- **Email:** [contact.himanshusalunke@gmail.com](mailto:contact.himanshusalunke@gmail.com)
-- **LinkedIn:** [Himanshu Salunke](https://www.linkedin.com/in/hr0221/)
-- **Portfolio:** [himanshusalunke.vercel.app](https://himanshusalunke.vercel.app)
+
+📧 <b>Email:</b> <a href="mailto:contact.himanshusalunke@gmail.com">contact.himanshusalunke@gmail.com</a>  
+🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/hr0221/">Himanshu Salunke</a>  
+🌐 <b>Portfolio:</b> <a href="https://himanshusalunke.vercel.app">himanshusalunke.vercel.app</a>
 
 <p align="center">Thanks for reading my story and visiting my profile 🙏<br>Let’s connect and build something meaningful together!</p>
