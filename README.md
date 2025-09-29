@@ -7,8 +7,8 @@
   <a href="https://x.com/Wiser_0221"><img src="https://img.shields.io/twitter/follow/Wiser_0221?logo=twitter&style=for-the-badge" alt="Follow on X" /></a>
   <a href="https://www.linkedin.com/in/himanshuksalunke/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" /></a>
   <a href="https://kaggle.com/HimanshuSalunke"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle profile" /></a>
-  <a href="https://www.hackerrank.com/salunkehimanshu1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank" alt="HackerRank" /></a>
-  <a href="https://leetcode.com/salunkehimanshu2001"><img src="https://img.shields.io/badge/LeetCode-FE5F1B?style=for-the-badge&logo=leetcode" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/profile/HimanshuSalunke"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank" alt="HackerRank" /></a>
+  <a href="https://leetcode.com/u/himanshusalunke/"><img src="https://img.shields.io/badge/LeetCode-FE5F1B?style=for-the-badge&logo=leetcode" alt="LeetCode" /></a>
 </p>
 
 ---
