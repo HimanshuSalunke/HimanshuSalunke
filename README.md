@@ -59,8 +59,8 @@
 
 | Project | Tech Stack | Description |
 |:---|:---|:---|
-| **[Financial Research Agent (RAG)](https://github.com/HimanshuSalunke/financial-research-rag)** | `LangChain` `OpenAI` `Python` | An AI agent that reads and analyzes financial documents using **RAG**, saving hours of manual research. |
-| **[IntelliStock Pro: AI Stock Prediction](https://github.com/HimanshuSalunke/intellistock-pro-ai-stock-prediction)** | `LSTM` `GRU` `Deep Learning` | Advanced stock market prediction engine with beautiful dashboards and high-accuracy neural networks. |
+| **[Financial Research Agent (RAG)](https://github.com/HimanshuSalunke/Financial-Research-Assistant-RAG-)** | `LangChain` `OpenAI` `Python` | An AI agent that reads and analyzes financial documents using **RAG**, saving hours of manual research. |
+| **[IntelliStock Pro: AI Stock Prediction](https://github.com/HimanshuSalunke/IntelliStock-Pro-AI-Powered-Stock-Prediction-Analytics)** | `LSTM` `GRU` `Deep Learning` | Advanced stock market prediction engine with beautiful dashboards and high-accuracy neural networks. |
 | **[YouTube Data Engineering Pipeline](https://github.com/HimanshuSalunke/Data-Engineering-Youtube-Data-Analysis)** | `AWS Glue` `Athena` `Lambda` | End-to-end scalable data pipeline on AWS to analyze YouTube trending data. |
 | **[Sentiment Analysis with BERT](https://github.com/HimanshuSalunke/Sentiment-Analysis-with-Deep-Learning-Using-Bert)** | `BERT` `Transformers` `NLP` | Deep learning model trained on Twitter data to detect fine-grained emotions and sentiment. |
 | **[Vehicle Number Plate Detection](https://github.com/HimanshuSalunke/Smart-India-Hackathon-2022)** | `YOLOv7` `OpenCV` `OCR` | Real-time system for detecting and reading license plates from moving vehicles. |
@@ -83,10 +83,12 @@
 ### 📊 The Grind (Github Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuSalunke&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuSalunke&theme=tokyonight&hide_border=true" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuSalunke&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuSalunke&theme=radical&hide_border=true" width="48%" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuSalunke&layout=compact&theme=tokyonight&hide_border=true" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuSalunke&layout=compact&theme=radical&hide_border=true" width="80%" />
+</p>
 </p>
 
 ---
