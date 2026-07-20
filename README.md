@@ -1,15 +1,9 @@
-<!--
-  GitHub profile README - HimanshuSalunke
-  Content synced from portfolio: https://himanshu-salunke.vercel.app
-  Only facts from live portfolio / resume sources - no invented metrics or projects.
--->
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:7C3AED,100:22D3EE&height=220&section=header&text=HIMANSHU%20SALUNKE&fontSize=42&fontColor=E2E8F0&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Backend%20Developer&descAlignY=58&descAlign=50" width="100%" alt="Himanshu Salunke" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&width=760&height=80&lines=Junior+Software+Developer+(Backend)+%40+GrubPac+Technologies;AI+%2F+ML+%C2%B7+RAG+%C2%B7+Computer+Vision+%C2%B7+Cloud+Data;Portfolio+%E2%86%92+himanshu-salunke.vercel.app" alt="Role typing line" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&width=760&height=80&lines=Junior+Software+Developer+(Backend)+%40+GrubPac+Technologies;AI+%2F+ML+%C2%B7+RAG+%C2%B7+Computer+Vision+%C2%B7+Cloud+Data;Building+scalable+APIs+and+intelligent+systems" alt="Role typing line" />
 </div>
 
 <br />
@@ -29,7 +23,7 @@
 
 ## About
 
-Builds custom AI systems, data pipelines, and scalable backend APIs. Focus areas include computer vision, machine learning, RAG / LLM systems, and cloud data engineering with Microsoft Fabric and AWS.
+I build custom AI systems, data pipelines, and scalable backend APIs. My focus areas include computer vision, machine learning, RAG / LLM systems, and cloud data engineering with Microsoft Fabric and AWS.
 
 | | |
 |:---|:---|
@@ -52,25 +46,21 @@ In December 2015 I sustained a severe left-leg fracture that required surgery an
 
 ---
 
-## Portfolio snapshot
+## At a glance
 
-Counts from the live site ([himanshu-salunke.vercel.app](https://himanshu-salunke.vercel.app)):
-
-| Projects on /work | Articles | Skills listed | Credentials |
+| Projects | Technical articles | Skills | Credentials |
 |:---:|:---:|:---:|:---:|
 | **8** | **42** | **61** | **6** |
 
-- Portfolio site: [himanshu-salunke.vercel.app](https://himanshu-salunke.vercel.app)
-- Neura (portfolio chat agent): available on the site, bottom-right
-- Services page: [himanshu-salunke.vercel.app/services](https://himanshu-salunke.vercel.app/services)
+- Website: [himanshu-salunke.vercel.app](https://himanshu-salunke.vercel.app)
+- Project showcase: [himanshu-salunke.vercel.app/work](https://himanshu-salunke.vercel.app/work)
+- Services: [himanshu-salunke.vercel.app/services](https://himanshu-salunke.vercel.app/services)
 
 ---
 
-## Projects (live on portfolio)
+## Featured projects
 
-Descriptions match the project summaries on the website.
-
-| Project | Summary (from portfolio) | Stack (from portfolio) |
+| Project | Summary | Stack |
 |:---|:---|:---|
 | **[Financial Research Assistant (RAG)](https://github.com/HimanshuSalunke/Financial-Research-Assistant-RAG-)** | Local RAG with Microsoft Phi-3 Mini and BGE embeddings; FastAPI + Streamlit | Python · FastAPI · Streamlit · Phi-3 · LangChain |
 | **[IntelliStock Pro](https://github.com/HimanshuSalunke/IntelliStock-Pro-AI-Powered-Stock-Prediction-Analytics)** | Ensemble ML platform with React frontend and FastAPI backend for NSE stock analytics | Python · PyTorch · React · TypeScript · FastAPI · LSTM |
@@ -81,11 +71,9 @@ Descriptions match the project summaries on the website.
 | **[Uplifting Happiness Index](https://github.com/HimanshuSalunke/SUNHACK-International-Level-Hackathon)** | Happiness indicators analysis across 150+ countries (SUNHACKS) | Python · Pandas · NumPy · Matplotlib · Seaborn · Plotly |
 | **[Iris EDA](https://github.com/HimanshuSalunke/Exploratory-Data-Analysis)** | EDA on the Iris dataset (150 samples) | Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter |
 
-Full write-ups: [himanshu-salunke.vercel.app/work](https://himanshu-salunke.vercel.app/work)
-
 ---
 
-## Hackathon recognition (from portfolio)
+## Hackathon recognition
 
 - Grand Finalist - SUNHACKS 2022 (International)
 - Grand Finalist - Smart India Hackathon 2022 (National)
@@ -93,7 +81,7 @@ Full write-ups: [himanshu-salunke.vercel.app/work](https://himanshu-salunke.verc
 
 ---
 
-## Tech (from portfolio skills)
+## Tech stack
 
 ### AI / ML / Vision
 ![Python](https://img.shields.io/badge/Python-0B1026?style=flat-square&logo=python&logoColor=22D3EE)
@@ -146,22 +134,22 @@ Full write-ups: [himanshu-salunke.vercel.app/work](https://himanshu-salunke.verc
 
 ---
 
-## Current focus (from portfolio)
+## Current focus
 
 - GATE 2027 preparation - Data Science and Artificial Intelligence
 - Computer vision projects (YOLO26 / real-time detection)
 - Cloud data engineering - Microsoft Fabric, OneLake, Apache Spark, AWS
-- Technical writing - ML / data science articles on the site (42)
+- Technical writing - ML and data science articles
 
 ---
 
 ## GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuSalunke&show_icons=true&theme=radical&hide_border=true&bg_color=0B1026&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0" height="165" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=HimanshuSalunke&theme=radical&hide_border=true&background=0B1026&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" height="165" alt="GitHub streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=HimanshuSalunke&show_icons=true&theme=radical&hide_border=true&bg_color=0B1026&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0&cache_seconds=86400" height="165" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=HimanshuSalunke&theme=radical&hide_border=true&background=0B1026&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" height="165" alt="GitHub streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuSalunke&layout=compact&theme=radical&hide_border=true&bg_color=0B1026&title_color=22D3EE&text_color=E2E8F0" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HimanshuSalunke&layout=compact&theme=radical&hide_border=true&bg_color=0B1026&title_color=22D3EE&text_color=E2E8F0&cache_seconds=86400" height="165" alt="Top languages" />
 </div>
 
 ---
@@ -172,7 +160,7 @@ Full write-ups: [himanshu-salunke.vercel.app/work](https://himanshu-salunke.verc
 
   **Email:** [contact.himanshusalunke@gmail.com](mailto:contact.himanshusalunke@gmail.com)  
   **Phone:** +91-9860553332  
-  **Portfolio:** [himanshu-salunke.vercel.app](https://himanshu-salunke.vercel.app)  
+  **Website:** [himanshu-salunke.vercel.app](https://himanshu-salunke.vercel.app)  
   **Contact form:** [himanshu-salunke.vercel.app/contact](https://himanshu-salunke.vercel.app/contact)
 
   <br />
