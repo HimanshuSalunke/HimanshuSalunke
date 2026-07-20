@@ -1,112 +1,193 @@
+<!--
+  GitHub profile README - HimanshuSalunke
+  Content synced from portfolio: https://himanshu-salunke.vercel.app
+  Only facts from live portfolio / resume sources - no invented metrics or projects.
+-->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c2ff&height=250&section=header&text=Hello%20World!%20%F0%9F%91%8B&fontSize=70&animation=fadeIn&fontAlignY=35&desc=I%20am%20Himanshu%20Salunke%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Dev&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:7C3AED,100:22D3EE&height=220&section=header&text=HIMANSHU%20SALUNKE&fontSize=42&fontColor=E2E8F0&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Backend%20Developer&descAlignY=58&descAlign=50" width="100%" alt="Himanshu Salunke" />
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&width=760&height=80&lines=Junior+Software+Developer+(Backend)+%40+GrubPac+Technologies;AI+%2F+ML+%C2%B7+RAG+%C2%B7+Computer+Vision+%C2%B7+Cloud+Data;Portfolio+%E2%86%92+himanshu-salunke.vercel.app" alt="Role typing line" />
+</div>
 
-  <a href="https://x.com/Wiser_0221">
-    <img src="https://img.shields.io/badge/X-Tweeting_Nonsense-black?style=for-the-badge&logo=x" />
-  </a>
-  <a href="https://linkedin.com/in/himanshuksalunke/">
-    <img src="https://img.shields.io/badge/LinkedIn-Link_Up-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://kaggle.com/HimanshuSalunke">
-    <img src="https://img.shields.io/badge/Kaggle-Mastering_Data-20BEFF?style=for-the-badge&logo=kaggle" />
-  </a>
-  <a href="https://leetcode.com/u/himanshusalunke/">
-    <img src="https://img.shields.io/badge/LeetCode-Grinding_DSA-FE5F1B?style=for-the-badge&logo=leetcode" />
-  </a>
-  
+<br />
+
+<div align="center">
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-himanshu--salunke.vercel.app-0B1026?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=111827)](https://himanshu-salunke.vercel.app)
+  [![Resume](https://img.shields.io/badge/Resume-PDF-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=111827)](https://himanshu-salunke.vercel.app/Himanshu_Salunke_Resume.pdf)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-himanshuksalunke-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827)](https://www.linkedin.com/in/himanshuksalunke)
+  [![X](https://img.shields.io/badge/X-@Wiser__0221-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=111827)](https://twitter.com/Wiser_0221)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-HimanshuSalunke-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=111827)](https://www.kaggle.com/HimanshuSalunke)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-himanshusalunke-FE5F1B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=111827)](https://leetcode.com/u/himanshusalunke/)
+
 </div>
 
 ---
 
-### 🧐 About Me
+## About
 
-> **"Every setback is a setup for a comeback."**
+Builds custom AI systems, data pipelines, and scalable backend APIs. Focus areas include computer vision, machine learning, RAG / LLM systems, and cloud data engineering with Microsoft Fabric and AWS.
 
-- 👨‍💻 **Role**: Aspiring Data Scientist & Machine Learning Engineer.
-- 🎓 **Education**: 
-  - **B.Tech in Data Science** – *R.C. Patel Institute of Technology* (June 2024)
-  - **Diploma in Computer Science** – *R.C. Patel Polytechnic* (May 2021)
-- 🧠 **Focus**: Building scalable AI systems, Serverless Architectures, and solving real-world problems with Deep Learning.
-- 🦾 **Origin Story**: Broke my leg in 2015 -> Bedridden for 2 years -> Learned to hack life -> Came back stronger.
-- ⚡ **Fun Fact**: I can center a `div` and train a Neural Network at the same time.
+| | |
+|:---|:---|
+| **Name** | Himanshu Kishor Salunke |
+| **Current role** | Junior Software Developer (Backend) at GrubPac Technologies (Delhi, India) · March 2026 - Present |
+| **Work stack** | Node.js · Express · TypeScript · PostgreSQL · AWS Cloud · REST APIs |
+| **Location** | Remote / India (IST) |
+| **Availability** | Available for new freelance projects and open to opportunities |
+| **Response time** | Within 24 hours |
+| **Preparing for** | GATE 2027 - Data Science and Artificial Intelligence |
 
----
+<details>
+<summary><b>Background</b></summary>
 
-### 🛠️ The Full Arsenal (Tech Stack)
+<br />
 
-*My weapons of choice for building the future.*
+In December 2015 I sustained a severe left-leg fracture that required surgery and a long recovery (full mobility took about 6 years). That period affected school attendance and SSC results (50%). I later completed a Diploma in CSE (9.4 CGPA) and B.Tech in Data Science (7.39 CGPA).
 
-#### 🧠 **Artificial Intelligence & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLOv7](https://img.shields.io/badge/YOLOv7-00FFFF?style=flat-square&logo=yolo&logoColor=black) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-#### 💻 **Full-Stack Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-#### ☁️ **Cloud, DevOps & Databases**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Neon](https://img.shields.io/badge/Neon_(Serverless_PG)-00E599?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-#### 🛠️ **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+</details>
 
 ---
 
-### 🍳 What I've Been Cooking (Latest Projects)
+## Portfolio snapshot
 
-*Fresh code, hot off the repo.*
+Counts from the live site ([himanshu-salunke.vercel.app](https://himanshu-salunke.vercel.app)):
 
-| Project | Tech Stack | Description |
+| Projects on /work | Articles | Skills listed | Credentials |
+|:---:|:---:|:---:|:---:|
+| **8** | **42** | **61** | **6** |
+
+- Portfolio site: [himanshu-salunke.vercel.app](https://himanshu-salunke.vercel.app)
+- Neura (portfolio chat agent): available on the site, bottom-right
+- Services page: [himanshu-salunke.vercel.app/services](https://himanshu-salunke.vercel.app/services)
+
+---
+
+## Projects (live on portfolio)
+
+Descriptions match the project summaries on the website.
+
+| Project | Summary (from portfolio) | Stack (from portfolio) |
 |:---|:---|:---|
-| **[Financial Research Agent (RAG)](https://github.com/HimanshuSalunke/Financial-Research-Assistant-RAG-)** | `LangChain` `OpenAI` `Python` | An AI agent that reads and analyzes financial documents using **RAG**, saving hours of manual research. |
-| **[IntelliStock Pro: AI Stock Prediction](https://github.com/HimanshuSalunke/IntelliStock-Pro-AI-Powered-Stock-Prediction-Analytics)** | `LSTM` `GRU` `Deep Learning` | Advanced stock market prediction engine with beautiful dashboards and high-accuracy neural networks. |
-| **[YouTube Data Engineering Pipeline](https://github.com/HimanshuSalunke/Data-Engineering-Youtube-Data-Analysis)** | `AWS Glue` `Athena` `Lambda` | End-to-end scalable data pipeline on AWS to analyze YouTube trending data. |
-| **[Sentiment Analysis with BERT](https://github.com/HimanshuSalunke/Sentiment-Analysis-with-Deep-Learning-Using-Bert)** | `BERT` `Transformers` `NLP` | Deep learning model trained on Twitter data to detect fine-grained emotions and sentiment. |
-| **[Vehicle Number Plate Detection](https://github.com/HimanshuSalunke/Smart-India-Hackathon-2022)** | `YOLOv7` `OpenCV` `OCR` | Real-time system for detecting and reading license plates from moving vehicles. |
-| **[Uplifting Happiness Index](https://github.com/HimanshuSalunke/SUNHACK-International-Level-Hackathon)** | `Flask` `Python` `Web` | **Hackathon Winner** - A system to gauge and uplift community sentiment through AI. |
+| **[Financial Research Assistant (RAG)](https://github.com/HimanshuSalunke/Financial-Research-Assistant-RAG-)** | Local RAG with Microsoft Phi-3 Mini and BGE embeddings; FastAPI + Streamlit | Python · FastAPI · Streamlit · Phi-3 · LangChain |
+| **[IntelliStock Pro](https://github.com/HimanshuSalunke/IntelliStock-Pro-AI-Powered-Stock-Prediction-Analytics)** | Ensemble ML platform with React frontend and FastAPI backend for NSE stock analytics | Python · PyTorch · React · TypeScript · FastAPI · LSTM |
+| **[Real-Time Height Measurement](https://github.com/HimanshuSalunke/Real-Time-Height-Measurement-System)** | MediaPipe + Kalman filtering; FastAPI backend and React frontend | Python · FastAPI · MediaPipe · OpenCV · React · TypeScript |
+| **[Moving Vehicle Number Plate Detection](https://github.com/HimanshuSalunke/Smart-India-Hackathon-2022)** | YOLO26 detection with dual OCR; SIH 2022 Grand Finalist team project | YOLO26 · OpenCV · EasyOCR · Flask · Python |
+| **[YouTube Data Engineering Pipeline](https://github.com/HimanshuSalunke/Data-Engineering-Youtube-Data-Analysis)** | End-to-end ETL with Apache Airflow, PostgreSQL, Docker, AWS S3 | Airflow · Python · PostgreSQL · Docker · AWS S3 |
+| **[World Layoff Data Analysis](https://github.com/HimanshuSalunke/World-Layoff-Data-Analysis)** | Analysis of 3,282 companies across 50+ industries | Python · Pandas · NumPy · Matplotlib · Seaborn · Plotly |
+| **[Uplifting Happiness Index](https://github.com/HimanshuSalunke/SUNHACK-International-Level-Hackathon)** | Happiness indicators analysis across 150+ countries (SUNHACKS) | Python · Pandas · NumPy · Matplotlib · Seaborn · Plotly |
+| **[Iris EDA](https://github.com/HimanshuSalunke/Exploratory-Data-Analysis)** | EDA on the Iris dataset (150 samples) | Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter |
+
+Full write-ups: [himanshu-salunke.vercel.app/work](https://himanshu-salunke.vercel.app/work)
 
 ---
 
-### 📜 Certifications (Verified)
+## Hackathon recognition (from portfolio)
 
-*Proof that I actually know what I'm doing.*
-
-- 🏅 **[DataCamp Certified: Associate Data Analyst](https://drive.google.com/file/d/1sRj_7Guc-tVBmw_bNZnBh6EcVmZUj1es/view)** *(May 2024)*
-- 🏅 **[DataCamp Certified: Associate Data Engineer](https://drive.google.com/file/d/1JseSVzsLL9maBkDioIufZIjpuhb07bSX/view)** *(May 2024)*
-- 🏅 **[Google Business Intelligence Certification](https://drive.google.com/file/d/1CSfaO1kV1XpbChKfmWojA44Ge3xgVRvM/view)** *(April 2024)*
-- 🏅 **[Google Data Analytics Certification](https://drive.google.com/file/d/1lrOPW3huOrYh1s5oakKSYOCJZHOKMq93/view)** *(Feb 2024)*
-- 🏅 **[Data Scientist Professional Certificate](https://drive.google.com/file/d/1CQIOT7vUbOoVcX7dwVmBBZNH9FOPiKrm/view)** *(Oct 2023)*
+- Grand Finalist - SUNHACKS 2022 (International)
+- Grand Finalist - Smart India Hackathon 2022 (National)
+- Internal Hackathon Lead - Smart India Hackathon 2023 (institutional; coordinated 85 teams)
 
 ---
 
-### 📊 The Grind (Github Stats)
+## Tech (from portfolio skills)
 
-<p align="center">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuSalunke&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuSalunke&theme=radical&hide_border=true" width="48%" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuSalunke&layout=compact&theme=radical&hide_border=true" width="80%" />
-</p>
-</p>
+### AI / ML / Vision
+![Python](https://img.shields.io/badge/Python-0B1026?style=flat-square&logo=python&logoColor=22D3EE)
+![PyTorch](https://img.shields.io/badge/PyTorch-0B1026?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0B1026?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0B1026?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-0B1026?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![LangChain](https://img.shields.io/badge/LangChain-0B1026?style=flat-square&logo=langchain&logoColor=22D3EE)
+![OpenCV](https://img.shields.io/badge/OpenCV-0B1026?style=flat-square&logo=opencv&logoColor=5C3EE8)
+![YOLO](https://img.shields.io/badge/YOLO26-0B1026?style=flat-square&logoColor=22D3EE)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0B1026?style=flat-square&logoColor=22D3EE)
+
+### Backend / APIs
+![Node.js](https://img.shields.io/badge/Node.js-0B1026?style=flat-square&logo=nodedotjs&logoColor=339933)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1026?style=flat-square&logo=typescript&logoColor=3178C6)
+![Express](https://img.shields.io/badge/Express-0B1026?style=flat-square&logo=express&logoColor=22D3EE)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B1026?style=flat-square&logo=fastapi&logoColor=009688)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1026?style=flat-square&logo=postgresql&logoColor=4169E1)
+
+### Frontend
+![React](https://img.shields.io/badge/React-0B1026?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0B1026?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0B1026?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
+![Streamlit](https://img.shields.io/badge/Streamlit-0B1026?style=flat-square&logo=streamlit&logoColor=FF4B4B)
+
+### Cloud / Data
+![AWS](https://img.shields.io/badge/AWS-0B1026?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0B1026?style=flat-square&logo=microsoft&logoColor=22D3EE)
+![Docker](https://img.shields.io/badge/Docker-0B1026?style=flat-square&logo=docker&logoColor=2496ED)
+![Airflow](https://img.shields.io/badge/Airflow-0B1026?style=flat-square&logo=apacheairflow&logoColor=017CEE)
+![Vercel](https://img.shields.io/badge/Vercel-0B1026?style=flat-square&logo=vercel&logoColor=white)
 
 ---
+
+## Education
+
+- **B.Tech - Data Science** · R. C. Patel Institute of Technology, Shirpur · Dec 2021 - June 2024 · **7.39 CGPA**
+- **Diploma - Computer Science and Engineering** · R. C. Patel Polytechnic, Shirpur · Aug 2017 - May 2021 · **9.4 CGPA**
+
+---
+
+## Credentials
+
+- [Microsoft Certified: Fabric Data Engineer Associate (DP-700)](https://drive.google.com/file/d/1whcpSSwO1_RPhKAWxo-eiWWw66uFIO4-/view?usp=sharing) · July 2026
+- [DataCamp Certified: Associate Data Engineer](https://drive.google.com/file/d/1JseSVzsLL9maBkDioIufZIjpuhb07bSX/view) · May 2024
+- [DataCamp Certified: Associate Data Analyst](https://drive.google.com/file/d/1sRj_7Guc-tVBmw_bNZnBh6EcVmZUj1es/view) · May 2024
+- [Google Business Intelligence Certification](https://drive.google.com/file/d/1CSfaO1kV1XpbChKfmWojA44Ge3xgVRvM/view) · April 2024
+- [Google Data Analytics Certification](https://drive.google.com/file/d/1lrOPW3huOrYh1s5oakKSYOCJZHOKMq93/view) · February 2024
+- [Data Scientist Professional Certificate](https://drive.google.com/file/d/1CQIOT7vUbOoVcX7dwVmBBZNH9FOPiKrm/view) · October 2023
+
+---
+
+## Current focus (from portfolio)
+
+- GATE 2027 preparation - Data Science and Artificial Intelligence
+- Computer vision projects (YOLO26 / real-time detection)
+- Cloud data engineering - Microsoft Fabric, OneLake, Apache Spark, AWS
+- Technical writing - ML / data science articles on the site (42)
+
+---
+
+## GitHub stats
 
 <div align="center">
-  
-  ### Let's Build Something Awesome! 🚀
-  
-  <a href="https://linkedin.com/in/himanshuksalunke/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_Me-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuSalunke&show_icons=true&theme=radical&hide_border=true&bg_color=0B1026&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0" height="165" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=HimanshuSalunke&theme=radical&hide_border=true&background=0B1026&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" height="165" alt="GitHub streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuSalunke&layout=compact&theme=radical&hide_border=true&bg_color=0B1026&title_color=22D3EE&text_color=E2E8F0" height="165" alt="Top languages" />
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+  **Email:** [contact.himanshusalunke@gmail.com](mailto:contact.himanshusalunke@gmail.com)  
+  **Phone:** +91-9860553332  
+  **Portfolio:** [himanshu-salunke.vercel.app](https://himanshu-salunke.vercel.app)  
+  **Contact form:** [himanshu-salunke.vercel.app/contact](https://himanshu-salunke.vercel.app/contact)
+
+  <br />
+
   <a href="mailto:contact.himanshusalunke@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire_Me-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-contact.himanshusalunke@gmail.com-22D3EE?style=for-the-badge&logo=gmail&logoColor=0B1026&labelColor=111827" alt="Email" />
+  </a>
+  <a href="https://himanshu-salunke.vercel.app/contact">
+    <img src="https://img.shields.io/badge/Contact_Form-Open-7C3AED?style=for-the-badge&labelColor=111827" alt="Contact form" />
   </a>
 
-  <br />
-  <br />
-  
-  <i>"I code, therefore I create."</i>
+</div>
 
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:7C3AED,100:0B1026&height=100&section=footer" width="100%" alt="" />
 </div>
