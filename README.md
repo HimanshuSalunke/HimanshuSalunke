@@ -125,7 +125,7 @@ In December 2015 I sustained a severe left-leg fracture that required surgery an
 
 ## Credentials
 
-- [AWS Certified Cloud Practitioner](https://aws.amazon.com/verification) · October 2026
+- [AWS Certified Cloud Practitioner](https://drive.google.com/file/d/1czWcvikuqEOHmgDnf0gmbrx_E1A_GIKC/view?usp=sharing) · October 2026
 - [AWS Certified AI Practitioner](https://drive.google.com/file/d/1UIknQmpWVpelMZ_IQU84MDIbGpln1WRO/view?usp=sharing) · September 2026
 - [Microsoft Certified: Fabric Data Engineer Associate (DP-700)](https://drive.google.com/file/d/1whcpSSwO1_RPhKAWxo-eiWWw66uFIO4-/view?usp=sharing) · July 2026
 - [DataCamp Certified: Associate Data Engineer](https://drive.google.com/file/d/1JseSVzsLL9maBkDioIufZIjpuhb07bSX/view) · May 2024
