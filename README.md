@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&width=760&height=80&lines=Junior+Software+Developer+(Backend)+%40+GrubPac+Technologies;AI+%2F+ML+%C2%B7+RAG+%C2%B7+Computer+Vision+%C2%B7+Cloud+Data;Building+scalable+APIs+and+intelligent+systems" alt="Role typing line" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&width=760&height=80&lines=Junior+Backend+Developer+%40+GrubPac+Technologies%3BWorldQuant+BRAIN+Consultant%3BAI+%2F+ML+-+RAG+-+Computer+Vision+-+Cloud+Data" alt="Role typing line" />
 </div>
 
 <br />
